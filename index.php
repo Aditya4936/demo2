@@ -1,3 +1,3 @@
 <?php
-echo "Hello Word"
+echo "hi my name is aditya"
 ?>
